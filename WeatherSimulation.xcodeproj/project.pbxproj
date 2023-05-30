@@ -11,6 +11,8 @@
 		B0826B432A261EE80093F13D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0826B422A261EE80093F13D /* ContentView.swift */; };
 		B0826B452A261EEA0093F13D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0826B442A261EEA0093F13D /* Assets.xcassets */; };
 		B0826B482A261EEA0093F13D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0826B472A261EEA0093F13D /* Preview Assets.xcassets */; };
+		B0826B4F2A261F200093F13D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B0826B4E2A261F200093F13D /* .gitignore */; };
+		B0826B512A261F260093F13D /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B0826B502A261F260093F13D /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		B0826B422A261EE80093F13D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B0826B442A261EEA0093F13D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B0826B472A261EEA0093F13D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B0826B4E2A261F200093F13D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		B0826B502A261F260093F13D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +39,8 @@
 		B0826B342A261EE80093F13D = {
 			isa = PBXGroup;
 			children = (
+				B0826B4E2A261F200093F13D /* .gitignore */,
+				B0826B502A261F260093F13D /* README.md */,
 				B0826B3F2A261EE80093F13D /* WeatherSimulation */,
 				B0826B3E2A261EE80093F13D /* Products */,
 			);
@@ -126,6 +132,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0826B482A261EEA0093F13D /* Preview Assets.xcassets in Resources */,
+				B0826B4F2A261F200093F13D /* .gitignore in Resources */,
+				B0826B512A261F260093F13D /* README.md in Resources */,
 				B0826B452A261EEA0093F13D /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
